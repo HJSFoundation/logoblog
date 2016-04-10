@@ -15,5 +15,5 @@ Key resources and information:
 Application features:
 
 - Front-end user auth
-- Posts consist of: <title, date, body> tuplet
+- Posts consist of: \<title, date, body\> tuplet
 - Configuration/admin via back-end
